@@ -5,8 +5,8 @@ venv/
 .env
 
 # 爬取的原始数据（太大，不上传）
-data/raw/
-data/processed/
+data/raw/*.json
+data/processed/*.json
 
 # Python缓存
 __pycache__/
